@@ -3,8 +3,6 @@
 
 Due: 9/25 21:00
 
-[toc]
-
 ## Version
 Python: 3.8.5 (Note: no numpy)
 Java: openjdk14 (https://openjdk.java.net/projects/jdk/14/)
