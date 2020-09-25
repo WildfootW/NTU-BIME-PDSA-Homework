@@ -79,8 +79,8 @@ public class Solution {
 
 example for java is a little bit complex
 ``` java
-import java.util.Arrays; 
-        
+import java.util.Arrays;
+
 public class Solution {
     int[] twoSum(int[] nums, int target) {
         // do something
@@ -137,10 +137,10 @@ import java.util.Arrays;
 
 public class Solution {
     public static List<int[]> threeSum(int[] nums) {
-	List<int[]>ans = new LinkedList<>();
-	//your solution process
-	//if you want to add a solution [a,b,c] in the list, you can use:
-	//ans.add(new int[]{a, b, c});
+    List<int[]>ans = new LinkedList<>();
+    //your solution process
+    //if you want to add a solution [a,b,c] in the list, you can use:
+    //ans.add(new int[]{a, b, c});
         return ans;
     }
 }
@@ -157,7 +157,7 @@ public class Solution {
 []
 
 >>> nums = list(range(-3, 10000))
-    >>> Solution().threeSum(nums)
+>>> Solution().threeSum(nums)
 [[-3, -2, 5], [-3, -1, 4], [-3, 0, 3], [-3, 1, 2], [-2, -1, 3], [-2, 0, 2], [-1, 0, 1]]
 
 ```
@@ -223,10 +223,10 @@ import java.util.Arrays;
 public class Solution {
     public static List<int[]> fourSum(int[] a, int target) {
 
-	List<int[]>ans = new LinkedList<>();
-	//your solution process
-	//if you want to add a solution [a,b,c,d] in the list, you can use:
-	//ans.add(new int[]{a, b, c, d});
+    List<int[]>ans = new LinkedList<>();
+    //your solution process
+    //if you want to add a solution [a,b,c,d] in the list, you can use:
+    //ans.add(new int[]{a, b, c, d});
         return ans;
     }
 }
